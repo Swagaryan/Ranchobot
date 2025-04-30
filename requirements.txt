@@ -3,6 +3,7 @@ tgcrypto==1.2.5
 pytz
 asyncio
 aiohttp
+aiofiles
 python-dotenv
 yt-dlp
 git+https://github.com/pytgcalls/pytgcalls@master
