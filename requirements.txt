@@ -9,3 +9,4 @@ yt-dlp
 git+https://github.com/pytgcalls/pytgcalls@master
 ffmpeg-python
 pytgcalls==2.0.0  # Ya jo bhi version compatible ho
+pytgcalls
