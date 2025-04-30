@@ -5,6 +5,6 @@ asyncio
 aiohttp
 aiofiles
 python-dotenv
-yt-dlp
+yt-dlp>=2023.12.30
 pytgcalls==2.0.0
 ffmpeg-python
