@@ -6,5 +6,5 @@ aiohttp
 aiofiles
 python-dotenv
 yt-dlp
-pytgcalls==2.0.0  # stable version
+pytgcalls==2.0.0
 ffmpeg-python
