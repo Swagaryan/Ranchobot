@@ -1,4 +1,8 @@
 pyrogram==2.0.106
 tgcrypto==1.2.5
-pytgcalls==0.9.5
-yt-dlp==2024.03.10
+pytz
+asyncio
+aiohttp
+python-dotenv
+yt-dlp
+git+https://github.com/pytgcalls/pytgcalls@master
