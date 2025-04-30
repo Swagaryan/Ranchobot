@@ -6,7 +6,5 @@ aiohttp
 aiofiles
 python-dotenv
 yt-dlp
-git+https://github.com/pytgcalls/pytgcalls@master
+pytgcalls==2.0.0  # stable version
 ffmpeg-python
-pytgcalls==2.0.0  # Ya jo bhi version compatible ho
-pytgcalls==1.2.3
